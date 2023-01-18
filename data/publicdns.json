@@ -41,6 +41,6 @@
       "ipv6Prefix": "2404:f340:4010:1402::/48",
       "service": "Google Public DNS",
       "scope": "cgk"
-    },
+    }
   ]
 }
