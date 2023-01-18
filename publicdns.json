@@ -1,0 +1,46 @@
+{
+  "syncToken": "1674024557",
+  "creationTime": "2023-01-18T06:49:17.000Z",
+  "prefixes": [
+    {
+      "ipv4Prefix": "34.101.0.0/24",
+      "service": "Google Public DNS",
+      "scope": "cgk"
+    },
+    {
+      "ipv4Prefix": "34.101.1.0/24",
+      "service": "Google Public DNS",
+      "scope": "cgk"
+    },
+    {
+      "ipv4Prefix": "34.101.2.0/24",
+      "service": "Google Public DNS",
+      "scope": "cgk"
+    },
+    {
+      "ipv4Prefix": "172.217.38.192/26",
+      "service": "Google Public DNS",
+      "scope": "cgk"
+    },
+    {
+      "ipv4Prefix": "172.253.14.192/26",
+      "service": "Google Public DNS",
+      "scope": "cgk"
+    },
+    {
+      "ipv4Prefix": "172.253.200.192/26",
+      "service": "Google Public DNS",
+      "scope": "cgk"
+    },
+    {
+      "ipv4Prefix": "172.253.224.32/24",
+      "service": "Google Public DNS",
+      "scope": "cgk"
+    },
+    {
+      "ipv6Prefix": "2404:f340:4010:1402::/48",
+      "service": "Google Public DNS",
+      "scope": "cgk"
+    },
+  ]
+}
